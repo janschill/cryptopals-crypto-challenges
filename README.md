@@ -1,6 +1,6 @@
 # the cryptopals crypto challenges
 
-- [x]xSet 1 Basics
+- [x]Set 1 Basics
   - [x] Challenge 1
   - [x] Challenge 2
   - [x] Challenge 3
@@ -11,7 +11,7 @@
   - [x] Challenge 8
 - [x] Set 2 Block Crypto
   - [x] Challenge 9
-  - [ ] Challenge 10
+  - [x] Challenge 10
   - [ ] Challenge 11
   - [ ] Challenge 12
   - [ ] Challenge 13
