@@ -1,6 +1,6 @@
 # the cryptopals crypto challenges
 
-- [x]Set 1 Basics
+- [x] Set 1 Basics
   - [x] Challenge 1
   - [x] Challenge 2
   - [x] Challenge 3
